@@ -16,10 +16,6 @@ You can run the code of DynAE on google Colaboratory plateform without installin
   3. Run the notebook "dynAE.ipynb" using Colab.
   
 
-# Results
-
-[The ACC and NMI of different clustering approaches.](image/table.png)
-
 # Citation
   
   ```
