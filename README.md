@@ -13,7 +13,7 @@ You can run the code of DynAE on google Colaboratory plateform without installin
 
   1. Create a folder entitled "Colab" in your google drive.
   2. Download the two folders "DynAE" and "data" and drop them in the Colab folder.
-  3. Run the notebook "DynAE.ipynb" using Colab.
+  3. Run the notebook "dynAE.ipynb" using Colab.
   
 
 # Results
