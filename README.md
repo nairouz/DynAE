@@ -16,7 +16,19 @@ You can run the code of DynAE on google Colaboratory plateform without installin
   3. Run the notebook "DynAE.ipynb" using Colab.
   
 
+# Results
 
+[Contribution guidelines for this project](results/CONTRIBUTING.md)
 
+# Citation
   
+  ```
+  @article{mrabah2019deep,
+  title={Deep Clustering with a Dynamic Autoencoder: From Reconstruction towards Centroids Construction},
+  author={Mrabah, Nairouz and Khan, Naimul Mefraz and Ksantini, Riadh and Lachiri, Zied},
+  journal={arXiv preprint arXiv:1901.07752},
+  year={2019}
+  }
+  
+  ```
   
