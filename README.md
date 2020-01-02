@@ -18,7 +18,7 @@ You can run the code of DynAE on google Colaboratory plateform without installin
 
 # Results
 
-[Contribution guidelines for this project](results/CONTRIBUTING.md)
+[The ACC and NMI of different clustering approaches.](image/table.png)
 
 # Citation
   
