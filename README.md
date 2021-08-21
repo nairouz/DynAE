@@ -19,12 +19,14 @@ You can run the code of DynAE on google Colaboratory plateform without installin
 # Citation
   
   ```
-  @article{mrabah2019deep,
-  title={Deep Clustering with a Dynamic Autoencoder: From Reconstruction towards Centroids Construction},
+@article{mrabah2020deep,
+  title={Deep clustering with a dynamic autoencoder: From reconstruction towards centroids construction},
   author={Mrabah, Nairouz and Khan, Naimul Mefraz and Ksantini, Riadh and Lachiri, Zied},
-  journal={arXiv preprint arXiv:1901.07752},
-  year={2019}
-  }
-  
+  journal={Neural Networks},
+  volume={130},
+  pages={206--228},
+  year={2020},
+  publisher={Elsevier}
+} 
   ```
   
